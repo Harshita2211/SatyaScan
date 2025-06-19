@@ -15,7 +15,7 @@ Tech Stack:-
 - IDE/Editor: VS Code, Notepad++
 - Deployment: Localhost via Apache Tomcat
 
-  Goals / Features to Implement:-
+Goals / Features to Implement:-
 -  Accept input from website content or social media posts
 -  Extract and clean text using NLP
 -  Identify key claims or statements
@@ -23,7 +23,7 @@ Tech Stack:-
 -  Provide a credibility score and visual feedback
 -  Log suspicious content for further review
 
-  Team Members:-
+ Team Members:-
 - SHREYANSH JAIN – Backend Developer
 - LAKSHAY BISHT – Research and Presentation Development 
 - ANSHIKA AGGARWAL– Frontend Developer
