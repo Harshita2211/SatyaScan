@@ -1,4 +1,5 @@
-# SatyaScan
+# SatyaScan  "Fake or fact, we’ve got your back — SatyaScan on track."
+
 Real-time Detection of Fake News on Websites or Social Media using NLP and Fact-Check APIs
 
 **Problem Statement:-**
